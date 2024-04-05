@@ -1,0 +1,9 @@
+Task 1.1: Functional Requirements
+
+Users should be able to add new contacts with their first name, last name, company, job title, phone numbers, and email addresses.
+Users should be able to update existing contacts with new information.
+Users should be able to delete old contacts from the system.
+Users should be able to search through the contacts by first name, last name, company, job title, phone numbers, and email addresses.
+The system should be able to merge duplicate contacts based on similar information.
+
+
